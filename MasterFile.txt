@@ -1,0 +1,2 @@
+When we work on Master?When we work on Branch?
+For every Repo, do we have DEV, TEST and Staging Branches? 
